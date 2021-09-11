@@ -1,0 +1,22 @@
+{
+    "params": {
+      "local_server": "True",
+      "local_uri": "mysql://root:@localhost/geeksonbench",
+      "production_uri": "mysql://root:@localhost/geeksonbench",
+      "blog_name": "Be A Programmer",
+      "tag_line": "Code Your Life",
+      "blog_title": "Be A Programmer",
+      "site_index": "GeeksOnBench",
+      "twitter_url": "https://twitter.com/GeeksOnBench",
+      "facebook_url": "https://facebook.com/GeeksOnBench",
+      "github_url": "https://github.com/GeeksOnBench",
+      "gmail_id": "atiff091@gmail.com",
+      "gmail_password": "batkhela(091)",
+      "about_text": "Hi viewer, My name is Atif Ahmad and I'm the owner of this blog. This is a programming blog. I created this blog to motivate the beginner programmers!",
+      "no_of_posts": 4,
+      "blog_logo": "blog_logo.png",
+      "admin_username": "abaaqa",
+      "admin_password": "morina",
+      "upload_location": "C:\\Users\\spogm\\PycharmProjects\\FlaskProject\\static\\img"
+    }
+  }
